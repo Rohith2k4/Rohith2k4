@@ -15,15 +15,3 @@
     </text>
   </svg>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFFF&center=true&vCenter=true&width=900&lines=Jella+Rohith+Sri+Veeravenakata+Durga+Satish" />
-</p>
-<p align="center">
-  <svg width="900" height="100">
-    <text x="50%" y="60%" text-anchor="middle" font-size="28" font-family="Verdana" font-weight="bold">
-      <animate attributeName="opacity" values="0;1;0.8;1" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="fill" values="#ff4b2b;#1fddff;#8a2be2;#ff4b2b" dur="5s" repeatCount="indefinite"/>
-      Jella Rohith Sri Veeravenakata Durga Satish
-    </text>
-  </svg>
-</p>
