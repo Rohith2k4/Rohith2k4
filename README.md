@@ -15,3 +15,6 @@
     </text>
   </svg>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFFF&center=true&vCenter=true&width=900&lines=Jella+Rohith+Sri+Veeravenakata+Durga+Satish" />
+</p>
